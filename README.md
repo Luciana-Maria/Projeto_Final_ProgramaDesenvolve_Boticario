@@ -3,7 +3,7 @@
 
 > “Entre números e insights, encontramos histórias que guiam decisões.”  
 
-Projeto desenvolvido no **Programa Desenvolve 2025** com o objetivo de analisar o desempenho de vendas do e-commerce **Olist**, traduzindo dados em estratégias de crescimento sustentável.
+Projeto desenvolvido no **Programa Desenvolve 2025** Grupo Boticário com o objetivo de analisar o desempenho de vendas do e-commerce **Olist**, traduzindo dados em estratégias de crescimento sustentável.
 
 ---
 
