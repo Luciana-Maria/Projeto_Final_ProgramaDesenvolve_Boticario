@@ -33,7 +33,6 @@ O resultado é um conjunto de dashboards no **Looker Studio**, que traduzem dado
 ## 📌 Principais Descobertas
 - **Faturamento total:** R$ 13,2 milhões | **Pedidos processados:** 96.478 | **Ticket médio:** R$ 159,83.  
 - **Produtos:** categoria beleza_saude se destacam.
-- 
 - **Logística:** tempo médio de entrega de 9,15 dias, com rotas críticas que chegam a ultrapassar 190 dias.  
 - **Clientes:** nota média de satisfação 4,1/5, porém pedidos pagos por boleto tiveram notas mais baixas em comparação ao cartão de crédito.  
 
